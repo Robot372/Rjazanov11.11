@@ -1,0 +1,2 @@
+﻿(64, 256, 11.313708498984761)
+The thread 'MainThread' (0x1) has exited with code 0 (0x0).
